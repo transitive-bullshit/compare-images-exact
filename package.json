@@ -1,6 +1,6 @@
 {
   "name": "compare-images-exact",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "CLI for comparing two directories of images recursively.",
   "repository": "transitive-bullshit/compare-images-exact",
   "author": "Travis Fischer <travis@automagical.ai>",
